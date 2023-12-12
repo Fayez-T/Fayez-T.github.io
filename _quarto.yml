@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Fayez Tamim"
-  favicon: IMG-20210906-WA0000.png
+  favicon: IMG-20210906-WA0000.jpg
   navbar:
     left:
       - text: Home
