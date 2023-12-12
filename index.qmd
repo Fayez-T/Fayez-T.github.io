@@ -1,18 +1,18 @@
 ---
-title: "Demo Site" # change this to your name
-image: images/linkedin_profile_picture.jpg # change to your profile pic
+title: "Fayez" # change this to your name
+image: images/IMG-20210906-WA0000.jpg # change to your profile pic
 about:
   template: jolla # templates: jolla, trestles, solana, marquee, broadside
   links: 
     - icon: envelope
       text: Contact Me
-      href: mailto:yourname@hamline.edu # change to your email
+      href: mailto:ftamim01@hamline.edu # change to your email
     - icon: linkedin
-      href: https://linkedin.com. # change to your linkedin address
+      href: https://www.linkedin.com/in/fayez-tamim-403243205/. # change to your linkedin address
     - icon: github
       href: https://github.com # change to your github address
     - icon: twitter
-      href: https://twitter.com # change to your twitter address
+      href: https://twitter.com/FayezTamim # change to your twitter address
 ---
 
 This is a Quarto website.
