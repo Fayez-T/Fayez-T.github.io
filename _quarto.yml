@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Fayez Tamim"
-  favicon: images/personal_logo.png
+  favicon: IMG-20210906-WA0000.png
   navbar:
     left:
       - text: Home
@@ -19,9 +19,9 @@ website:
       - icon: github
         href: https://github.com/ # change this to your github url
       - icon: linkedin
-        href: https://www.linkedin.com # change this to your linkedin page
+        href: https://www.linkedin.com/in/fayez-tamim-403243205/ # change this to your linkedin page
       - icon: twitter
-        href: https://twitter.com/ # change this to your twitter
+        href: https://twitter.com/FayezTamim # change this to your twitter
     page-footer:
       background: light
       right: 
